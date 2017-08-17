@@ -1,4 +1,4 @@
-# volumetric
+# Volumetric
 
 Concept: define a simple, dynamic, non-visual, spatial relationship between a human and a computer by taking a known one and shifting the terms by which it is dynamic
 
